@@ -14,10 +14,10 @@ The goal is to break all the bricks without letting the ball touch the ground.
 A version of the popular Arkanoid game, implemented as part of the OOP course I took in the first year of my studies in the University.  
 The game contains three levels with increasing difficulty, in a GUI friendly platform.  
 The game was implemented using the following OOP principals:  
--Polymorphism and inheritance.  
--Usage of basic design patterns in OOP, such as Observer, Builder, etc.  
--Usage of several generic collections and data structures such as linked lists and arraylists.  
--Working with GUI.  
+- Polymorphism and inheritance.  
+- Usage of basic design patterns in OOP, such as Observer, Builder, etc.  
+- Usage of several generic collections and data structures such as linked lists and arraylists.  
+- Working with GUI.  
 
 ## Dependedencies
 -Windows / Linux / macOS  
