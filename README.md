@@ -20,9 +20,9 @@ The game was implemented using the following OOP principals:
 - Working with GUI.  
 
 ## Dependedencies
--Windows / Linux / macOS  
--Keyboard  
--Apache Ant  
+- Windows / Linux / macOS  
+- Keyboard  
+- Apache Ant  
 
 ## Installation
 ### Option 1:  
