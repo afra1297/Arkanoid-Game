@@ -4,7 +4,7 @@ The game features a paddle controlled by the player and a ball that bounces off 
 The goal is to break all the bricks without letting the ball touch the ground.
 
 ## Table of Contents
-- [About](#about-the-project)
+- [About](#about)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Controls](#controls)
@@ -19,7 +19,7 @@ The game was implemented using the following OOP principals:
 - Usage of several generic collections and data structures such as linked lists and arraylists.  
 - Working with GUI.  
 
-## Dependedencies
+## Dependencies
 - Windows / Linux / macOS  
 - Keyboard  
 - Apache Ant  
