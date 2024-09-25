@@ -28,5 +28,6 @@ The game was implemented using the following OOP principals:
 ### Option 1:  
 1. Clone the repository:
    ```bash
+   https://github.com/afra1297/Arkanoid-Game.git
      
 3. Install Apache Ant Link to a guide: Apache Ant Installation Video Windows 10
