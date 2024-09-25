@@ -28,6 +28,38 @@ The game was implemented using the following OOP principals:
 ### Option 1:  
 1. Clone the repository:
    ```bash
+   https://github.com/afra1297/Arkanoid-Game.git    
+2. Install [Apache Ant](https://ant.apache.org/bindownload.cgi)  
+3. Open CMD/Git Bash in the cloned directory and run this command to start the game:
+   ```bash  
+   $ ant run
+
+### Option 2:
+1. Clone the repository:
+   ```bash
    https://github.com/afra1297/Arkanoid-Game.git
-     
-3. Install Apache Ant Link to a guide: Apache Ant Installation Video Windows 10
+2. Open the project using a suitable IDE such as Intellij, VS, etc.
+3. Add the biu-oop.jar file as a global library to the Arkanoid project.
+4. Make sure an updated jdk is set in the configuration for the manu to run on, and run the game.
+ 
+## Controls
+- Left Arrow: Move paddle left
+- Right Arrow: Move paddle right
+- Space: Exit the game after loss/win
+- P: Pause the game
+
+## View
+Here are some images of the game:
+![Arkanoid-First-Level](https://github.com/user-attachments/assets/f081bbd6-ec1d-479e-84a9-6d1e7ba12482)  
+
+![Arkanoid-Second-Level](https://github.com/user-attachments/assets/97aea63e-bb60-4284-ac9e-15f129a9ef80)  
+
+![Arkanoid-Third-Level](https://github.com/user-attachments/assets/675742a8-3c94-417b-a0de-ebb7334c9e76) 
+
+![Arkanoid-Score-Count](https://github.com/user-attachments/assets/82c3fd5f-93f5-476e-86b9-77a672181a9b)
+
+
+
+
+
+
